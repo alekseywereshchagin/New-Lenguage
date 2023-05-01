@@ -13,7 +13,6 @@ else if (number == "2")
 {
     Console.WriteLine("Вторник");
 }
-
 else if (number == "3")
 {
     Console.WriteLine("Среда");
@@ -28,13 +27,13 @@ else if (number == "5")
 }
 else if (number == "6")
 {
-Console.WriteLine("Суббота");
+    Console.WriteLine("Суббота");
 }
-else if (numbe == "7")
+else if (number == "7")
 {
-Console.WriteLine("Воскресенье");
+    Console.WriteLine("Воскресенье");
 }
-else 
+else
 {
     Console.WriteLine("Введите число от 1 до 7");
 }
